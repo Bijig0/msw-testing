@@ -38,3 +38,27 @@ Ok Also, for worksheet parsing it's quite simple
 Supabase excel file --> parse as generic worksheet --> parse into obj --> parse into specific type (tagihan/rekapan etc.)
 
 this way you get full typing support when you parse as a worksheet first, and are guaranteed of the type, you aprse into Obj to separate headers and records
+
+Ok so the types for a Workbook, is
+
+```ts
+CellType[][][]
+```
+
+The outermost array means, a workbook contains worksheets
+
+```ts
+CellType[][]
+```
+
+The second outermost array means a worksheet contains records/rows
+
+```ts
+CellType[]
+```
+
+The last outermost array (innermost array) means a row contains cells
+
+```ts
+CellType;
+```
