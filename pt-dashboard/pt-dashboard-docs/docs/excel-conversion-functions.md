@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Introduction
+# Excel Conversion Functions
 
-How the excel zod fp-ts shit works or should work
+What functions are available
 
 # Excel Conversion Functions
 
