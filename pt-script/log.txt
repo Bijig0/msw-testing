@@ -1,0 +1,28 @@
+TANGGA PCH is using 3 cols
+LEDGER 0.6 RL is using 3 cols
+LEDGER 0.9 RL is using 3 cols
+LEDGER 1.2 RL is using 3 cols
+LEDGER 1.8 RL is using 3 cols
+LEDGER 0.5 PCH is using 3 cols
+H 4X6X4 is using 3 cols
+H 5X10X2.5 is using 3 cols
+SURI SURI 4X6X1 is using 3 cols
+SURI SURI 4X6X2 is using 3 cols
+SURI SURI 5X10X2 is using 3 cols
+SIKU 30X35 is using 3 cols
+SIKU 35X35 is using 3 cols
+SIKU 40X40 is using 3 cols
+SIKU 40X45 is using 3 cols
+SIKU 45X45 is using 3 cols
+SIKU 45X 50 is using 3 cols
+SIKU 50X50 is using 3 cols
+SIKU 60X60 is using 3 cols
+PUSH PULL 2M is using 3 cols
+PUSH PULL 3 is using 3 cols
+SW 1170 is using 3 cols
+SW 1730 is using 3 cols
+SW 2340 is using 3 cols
+SW 3560 is using 3 cols
+SW 4680 is using 3 cols
+COUPLING 1M is using 3 cols
+CNP 125X3.5 M is using 3 cols
