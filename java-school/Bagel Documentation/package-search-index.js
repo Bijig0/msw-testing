@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"bagel"},{"l":"bagel.map"},{"l":"bagel.util"}];updateSearchResults();
