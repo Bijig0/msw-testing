@@ -3,7 +3,7 @@ import { HttpResponse, http } from "msw";
 import { setupServer } from "msw/node";
 import App from "./App";
 
-const url = "https://lkxwausyseuiizopsrwi.supabase.co/rest/v1/todos";
+const url = "https://YOUR_URL_HERE.supabase.co/rest/v1/todos";
 
 const handlers = [
   http.get(url, () => {
@@ -19,6 +19,7 @@ describe("supabase test", () => {
     server.events.on("request:start", (req) => {
       console.log(`Outgoing: ${req}`);
     });
+    fetch(url);
     render(<App />);
   });
 });
